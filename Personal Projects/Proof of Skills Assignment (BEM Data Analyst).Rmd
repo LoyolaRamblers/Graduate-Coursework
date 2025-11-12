@@ -1,0 +1,68 @@
+---
+title: "Tableau Visualization Insights"
+author: "Charles Hwang"
+date: "Wednesday, November 12, 2025"
+output: pdf_document
+---
+
+## Opening Note
+
+If you are **only** interested in the "brief paragraph" as requested in the assignment instructions, please skip to the "Insights ('Brief Paragraph')" section.
+
+You may have noticed this document is much longer than a single paragraph. The assignment instructions said to "provide a brief paragraph explaining what your visualizations mean, and/or provide insights into the data", but they did *not* say candidates cannot include further information, which is what I have chosen to do. The "Insights ('Brief Paragraph')" section provides the requested paragraph, which I have tried to keep "brief" enough to satisfy the original intended meaning of "brief" in the assignment instructions.
+
+## Work
+
+### Starting the Assignment
+
+After reading the assignment instructions and previewing the data attachments in the email, I downloaded and installed *Tableau Public* (2025.2.4). Having done most data visualization throughout my academic career in *RStudio* and *SAS*, it took awhile to familiarize myself with the interface. Some web searches (like most data analysts would do) were helpful in getting started. I uploaded the two datasets to *Tableau Public* and reviewed the variables. After some experimentation with the interface and types of graphs available, I created line graphs for the sale price data and bar graphs for the earned income tax credit (EITC) data, which were the "Automatic" graph types suggested by *Tableau*.
+
+### Creating the Visualizations
+
+For the first visualization, I initially tried to create an area graph, but it appeared to be unsuccessful. I eventually set the graph type to "Automatic" as stated above and *Tableau* produced a satisfactory set of line graphs. I decided on using the "Type of Home" and "Total No. Of Properties" variables as columns as there seemed to be significant differences in sale price. I considered the "Number Of Sales" variable, but the range was lower than that of the "Total No. Of Properties" variable. The minimum, median, and maximum sale price naturally appeared to be the independent variables, so I set them as rows. I used median sale price instead of average because, as a lot of statisticians will tell you, the median is less influenced by outliers in the data, and with any real-life data this dataset had enough to make a difference.
+
+For the second visualization, I initially tried another graph type (which I unfortunately now do not remember), but it again appeared to be unsuccessful. Setting the graph type to "Automatic" produced stacked bar graphs, which were visually appealing and made sense for this data. I chose to use the "Size of Earned Income" and "Tax Year" variables as columns as there again seemed to be significant differences in the data. Notably, I filtered out all income levels above \$32,000 as the data were sparse (likely due to stricter eligibility for EITC claims for higher income levels) and there appeared to be some sort of transition in data collection which caused some levels to only be available 2008 and earlier and others to only be available 2009 and later. I also treated "Tax Year" as a discrete (rather than continuous) variable as this led to better visualization with clearer separation between bars. I chose the "Number of Claims" variables for more than two, two, more than one, one, and zero children as rows (with the variable for total being unnecessary as the five variables stacked together constituted the total) as they visually appeared nicer than the other variables like "Credit Amount Claimed" and "Average Credit". Also, given there was no variable key and the instructions stated questions cannot be answered, it was unclear to me what exactly these two variables were.
+
+## Insights ("Brief Paragraph")
+
+I created two visualizations. The first compares the minimum, median, and maximum sale price of certain New York City properties by type of home (single, duplex, or triplex) and number of properties in the neighborhood, and the second compares EITC claims by New York City residents from 2004 to 2014 by income level and number of children. In the first, we can see the highest sale price was \$25,000,000 for a one-family home in a neighborhood of 335. In the second, we can see a plurality of claims from families with incomes of \$12,000 or less are childless while a plurality of claims from families with incomes greater than \$12,000 have at least one child.
+
+### Further Insights
+
+In the first visualization, we can see the overall variance in sale prices is greater when the number of properties in the neighborhood is lower. This makes sense as a lower sample size tends to lead to higher variance.
+
+In the second visualization, we can see most claims are from families with incomes of \$12,000 or less. There was a significant increase in claims from families with incomes between \$12,001 and \$16,000 between 2004 and 2014 mainly driven by childless families. There appear to be missing data in 2008 among families with incomes between \$16,001 and \$20,000 and between \$24,001 and \$28,000.
+
+## Submission
+
+In this submission you should find four files with different extensions, all titled "Charles Hwang Assignment" per the instructions:
+
+1. *Tableau* Workbook (.twb)
+2. *Tableau* Packaged Workbook (.twbx)
+3. *R* Markdown (.Rmd)
+4. Portable Document Format (.pdf)
+
+## Conclusion
+
+The statement on proof of skill assignments said the employer doesn't expect candidates to spend more than two hours on assignments, so I began to conclude my work on the visualizations despite not being fully finished. Given this, if it were submitted as an academic assignment, I consider this submission to be a success. I learned a lot from working with these data in *Tableau* and writing this report recalled skills of using *R* Markdown.
+
+If I had more time to work on this assignment, I would continue to explore the *Tableau Public* interface and the data to see if visualizations with different variables would be better.
+
+## Statement on AI Usage and Plagiarism
+
+The assignment instructions state in part: "Please be aware that we assess these assignments with knowledge of what an AI auto-generated response would look like. If your assignment is too similar to an AI response, we will not move forward with your application." I affirm I did **not** use any artificial intelligence (AI) in completing any part of this assignment and that everything submitted is entirely my own work. Any similarities to AI-generated content is purely coincidental and unintentional.
+
+## Next Steps
+
+In the event I am selected for an interview, I would like to note that I will be out of the country until Tuesday, December 23, 2025. As I will be in a completely different time zone (UTC+8 vs. UTC-7), this will predictably make it difficult to schedule and conduct a live/synchronous interview. I initially proceeded with applying because I saw this position is remote and the start date is listed as Monday, January 5, 2026, which is after I return. I hope to work constructively with your team to determine how we may be able to proceed.
+
+In the event I am *not* selected, I would welcome any suggestions and feedback on my submission and application, as well as other job postings I may be qualified for (either at *Crane Global Enterprises* or elsewhere).
+
+Either way, thank you very much for your time and your consideration of my submission and application!
+
+## Contact Information
+
+- Email: <chwang202020@gmail.com>
+- GitHub: <https://github.com/LoyolaRamblers>
+- LinkedIn: <https://www.linkedin.com/in/charleshwang20>
+- Kaggle: <https://www.kaggle.com/charleshwang>
