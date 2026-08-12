@@ -1,17 +1,17 @@
-#### Loyola University Chicago [M.S. Applied Statistics](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/mathematics-statistics/applied-statistics-ms/#curriculumtext), Class of 2022 ([Transcript](Graduate%20Transcript.pdf))
-- [STAT 401](https://www.luc.edu/math/academics/courses/gradstat/stat495statisticalconsultingcapstone) – Statistical Consulting
+#### Loyola University Chicago [M.S. Applied Statistics](https://catalog.luc.edu/graduate-professional/graduate-school/arts-sciences/mathematics-statistics/applied-statistics-ms), Class of 2022 ([Transcript](Graduate%20Transcript.pdf))
+- Statistical Consulting ([STAT 401](https://www.luc.edu/math/academics/courses/gradstat/stat495statisticalconsultingcapstone))
   - [Presentation 1](STAT%20401%20–%20Statistical%20Consulting/Presentation%201%20(Loyola%20Games%20Version%202.0).pdf)
   - [Presentation 2](STAT%20401%20–%20Statistical%20Consulting/Presentation%202%20(Nonparametric%20Tests).pdf)
   - [Project Report](STAT%20401%20–%20Statistical%20Consulting/Project%20(Determining%20a%20Resource-Efficient%20Model%20for%20Residential%20Real%20Estate%20Valuation)/Project%20Report.pdf) (Determining a Resource-Efficient Model for Residential Real Estate Valuation)
-- [STAT 403](https://www.luc.edu/math/academics/courses/stat403) – SAS Programming & Applied Statistics
-- [STAT 404](https://www.luc.edu/math/academics/courses/gradstat/math/academics/courses/math404) – Probability & Statistics I[^1]
-- [STAT 405](https://www.luc.edu/math/academics/courses/gradstat/math/academics/courses/math405) – Probability & Statistics II
-- [STAT 407](https://www.luc.edu/math/academics/courses/stat407) – Statistical Design & Analysis of Experiments
-- [STAT 408](https://www.luc.edu/math/academics/courses/stat408) – Applied Regression Analysis
-- [STAT 410](https://www.luc.edu/math/academics/courses/stat410) – Categorical Data Analysis
-- [STAT 451](https://www.luc.edu/math/academics/courses/gradstat/stat451appliednonparametricmethods) – Nonparametric Statistical Methods
-- [STAT 488](https://www.luc.edu/math/academics/courses/stat488) – [Bayesian](http://gauss.math.luc.edu/info/courses/fall/2017/detail/#502-STAT488) Statistical Methods
-- [STAT 488](https://www.luc.edu/math/academics/courses/stat488) – [Multivariate Statistical Analysis](http://gauss.math.luc.edu/info/courses/spring/2022/detail/#807-STAT488)
+- SAS Programming & Applied Statistics ([STAT 403](https://www.luc.edu/math/academics/courses/stat403))
+- Probability & Statistics I ([STAT 404](https://www.luc.edu/math/academics/courses/gradstat/math/academics/courses/math404))[^1]
+- Probability & Statistics II ([STAT 405](https://www.luc.edu/math/academics/courses/gradstat/math/academics/courses/math405))
+- Statistical Design & Analysis of Experiments ([STAT 407](https://www.luc.edu/math/academics/courses/stat407))
+- Applied Regression Analysis ([STAT 408](https://www.luc.edu/math/academics/courses/stat408))
+- Categorical Data Analysis ([STAT 410](https://www.luc.edu/math/academics/courses/stat410))
+- Nonparametric Statistical Methods ([STAT 451](https://www.luc.edu/math/academics/courses/gradstat/stat451appliednonparametricmethods))
+- [Bayesian](http://gauss.math.luc.edu/info/courses/fall/2017/detail/#502-STAT488) Statistical Methods ([STAT 488](https://www.luc.edu/math/academics/courses/stat488))
+- [Multivariate Statistical Analysis](http://gauss.math.luc.edu/info/courses/spring/2022/detail/#807-STAT488) ([STAT 488](https://www.luc.edu/math/academics/courses/stat488))
   - [Paper 1](STAT%20488%20–%20Multivariate%20Statistical%20Analysis/Paper%201%20(The%20NBA%20as%20an%20Evolving%20Multivariate%20System)/Paper%201.pdf) (Analysis of "The NBA as an Evolving Multivariate System")
   - [Paper 2](STAT%20488%20–%20Multivariate%20Statistical%20Analysis/Paper%202%20(Changes%20in%20the%20Type%20of%20Sports%20Activity%20Due%20to%20COVID-19)/Paper%202.pdf) (Analysis of "Changes in the Type of Sports Activity Due to COVID–19")
 #### [Project Reports and Presentations](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)) (excluding [STAT 401](STAT%20401%20–%20Statistical%20Consulting))
