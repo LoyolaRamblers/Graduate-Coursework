@@ -3,8 +3,8 @@
 - Bayesian Statistical Methods ([STAT](https://catalog.luc.edu/course-descriptions/stat) 460)
 - Categorical Data Analysis ([STAT](https://catalog.luc.edu/course-descriptions/stat) 410)
 - Multivariate Statistical Analysis ([STAT](https://catalog.luc.edu/course-descriptions/stat) 464)
-  - [Paper 1](STAT%20488%20–%20Multivariate%20Statistical%20Analysis/Paper%201%20(The%20NBA%20as%20an%20Evolving%20Multivariate%20System)/Paper%201.pdf) (Analysis of "The NBA as an Evolving Multivariate System")
-  - [Paper 2](STAT%20488%20–%20Multivariate%20Statistical%20Analysis/Paper%202%20(Changes%20in%20the%20Type%20of%20Sports%20Activity%20Due%20to%20COVID-19)/Paper%202.pdf) (Analysis of "Changes in the Type of Sports Activity Due to COVID–19")
+  - Analysis of "Changes in the Type of Sports Activity Due to COVID–19" ([Paper 2](STAT%20488%20–%20Multivariate%20Statistical%20Analysis/Paper%202%20(Changes%20in%20the%20Type%20of%20Sports%20Activity%20Due%20to%20COVID-19)/Paper%202.pdf))
+  - Analysis of "The NBA as an Evolving Multivariate System" ([Paper 1](STAT%20488%20–%20Multivariate%20Statistical%20Analysis/Paper%201%20(The%20NBA%20as%20an%20Evolving%20Multivariate%20System)/Paper%201.pdf))
 - Nonparametric Statistical Methods ([STAT](https://catalog.luc.edu/course-descriptions/stat) 451)
 - Probability & Statistics I ([STAT](https://catalog.luc.edu/course-descriptions/stat) 404)[^1]
 - Probability & Statistics II ([STAT](https://catalog.luc.edu/course-descriptions/stat) 405)
@@ -16,10 +16,10 @@
 - Statistical Design & Analysis of Experiments ([STAT](https://catalog.luc.edu/course-descriptions/stat) 407)
 [^1]: No files exist for this course because the nature of the subject led to coursework being done exclusively on paper.
 #### [Project Reports and Presentations](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)) (excluding [STAT 401](STAT%20401%20–%20Statistical%20Consulting))
-- Analysis of COVID-19 Cases, Deaths, and Hospitalizations in the City of Chicago ([STAT 488 Multivariate Report 2](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20488%20Multivariate%20Project%202%20(Multivariate%20Analysis%20of%20COVID-19%20Cases%2C%20Deaths%2C%20and%20Hospitalizations%20in%20the%20City%20of%20Chicago)/Report.pdf))
+- Analysis of COVID-19 Cases, Deaths, and Hospitalizations in the City of Chicago ([STAT 464 Report 2](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20488%20Multivariate%20Project%202%20(Multivariate%20Analysis%20of%20COVID-19%20Cases%2C%20Deaths%2C%20and%20Hospitalizations%20in%20the%20City%20of%20Chicago)/Report.pdf))
 - Analysis of Winning in the 2019-2020 NFL Regular Season ([STAT 403 Presentation](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20403%20Project%20(Analysis%20of%20Winning%20in%20the%202019–2020%20NFL%20Regular%20Season)/Presentation.pdf))
 - Analysis of Winning in the 2019-2020 NFL Regular Season ([STAT 403 Report](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20403%20Project%20(Analysis%20of%20Winning%20in%20the%202019–2020%20NFL%20Regular%20Season)/Report.pdf))
-- Current Employees of the City of Chicago ([STAT 488 Multivariate Report 1](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20488%20Multivariate%20Project%201%20(Current%20Employees%20of%20the%20City%20of%20Chicago)/Report.pdf))
+- Current Employees of the City of Chicago ([STAT 464 Report 1](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20488%20Multivariate%20Project%201%20(Current%20Employees%20of%20the%20City%20of%20Chicago)/Report.pdf))
 - Kaggle Analysis of "Personal Key Indicators of Heart Disease" Dataset ([STAT 451 Report](https://www.kaggle.com/code/charleshwang/stat-451-project))
 - Loyola Games ([STAT 410 Presentation](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20410%20Project%20(Loyola%20Games)/Presentation.pdf))
 - Loyola Games ([STAT 410 Report](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20410%20Project%20(Loyola%20Games)/Report.pdf))
