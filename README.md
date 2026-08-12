@@ -10,8 +10,9 @@
 - Probability & Statistics II ([STAT](https://catalog.luc.edu/course-descriptions/stat) 405)
 - SAS Programming & Applied Statistics ([STAT](https://catalog.luc.edu/course-descriptions/stat) 403)
 - Statistical Consulting ([STAT](https://catalog.luc.edu/course-descriptions/stat) 401)
-  - Determining a Resource-Efficient Model for Residential Real Estate Valuation ([Project Report](STAT%20401%20–%20Statistical%20Consulting/Project%20(Determining%20a%20Resource-Efficient%20Model%20for%20Residential%20Real%20Estate%20Valuation)/Project%20Report.pdf))[Presentation 1](STAT%20401%20–%20Statistical%20Consulting/Presentation%201%20(Loyola%20Games%20Version%202.0).pdf)
-  - [Presentation 2](STAT%20401%20–%20Statistical%20Consulting/Presentation%202%20(Nonparametric%20Tests).pdf)
+  - Determining a Resource-Efficient Model for Residential Real Estate Valuation ([Project Report](STAT%20401%20–%20Statistical%20Consulting/Project%20(Determining%20a%20Resource-Efficient%20Model%20for%20Residential%20Real%20Estate%20Valuation)/Project%20Report.pdf))
+  - Loyola Games Version 2.0 ([Presentation 1](STAT%20401%20–%20Statistical%20Consulting/Presentation%201%20(Loyola%20Games%20Version%202.0).pdf))
+  - Nonparametric Tests ([Presentation 2](STAT%20401%20–%20Statistical%20Consulting/Presentation%202%20(Nonparametric%20Tests).pdf))
 - Statistical Design & Analysis of Experiments ([STAT](https://catalog.luc.edu/course-descriptions/stat) 407)
 [^1]: No files exist for this course because the nature of the subject led to coursework being done exclusively on paper.
 #### [Project Reports and Presentations](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)) (excluding [STAT 401](STAT%20401%20–%20Statistical%20Consulting))
