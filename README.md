@@ -14,7 +14,6 @@
   - Loyola Games Version 2.0 ([Presentation 1](STAT%20401%20–%20Statistical%20Consulting/Presentation%201%20(Loyola%20Games%20Version%202.0).pdf))
   - Nonparametric Tests ([Presentation 2](STAT%20401%20–%20Statistical%20Consulting/Presentation%202%20(Nonparametric%20Tests).pdf))
 - Statistical Design & Analysis of Experiments ([STAT](https://catalog.luc.edu/course-descriptions/stat) 407)
-[^1]: No files exist for this course because the nature of the subject led to coursework being done exclusively on paper.
 #### [Project Reports and Presentations](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)) (excluding [STAT 401](STAT%20401%20–%20Statistical%20Consulting))
 - Analysis of COVID-19 Cases, Deaths, and Hospitalizations in the City of Chicago ([STAT 464 Report 2](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20488%20Multivariate%20Project%202%20(Multivariate%20Analysis%20of%20COVID-19%20Cases%2C%20Deaths%2C%20and%20Hospitalizations%20in%20the%20City%20of%20Chicago)/Report.pdf))
 - Analysis of Winning in the 2019-2020 NFL Regular Season ([STAT 403 Presentation](Project%20Reports%20and%20Presentations%20(excluding%20STAT%20401)/STAT%20403%20Project%20(Analysis%20of%20Winning%20in%20the%202019–2020%20NFL%20Regular%20Season)/Presentation.pdf))
@@ -37,3 +36,4 @@
 - Loyola Women's Volleyball 2020 Recruiting Class ([ggplot2 Map](Personal%20Projects/ggplot2%20Map%20(2020%20Loyola%20Women's%20Volleyball%20Recruiting%20Class).pdf))
 - Possible Pitching Outcomes of a Baseball Game ([Euler Plot](Personal%20Projects/Euler%20Plot%20(Baseball%20Pitching%20Outcomes).pdf))
 - September 2022 [Problem of the Month](https://www.luc.edu/math/problemofthemonth) ([Mathematical Solution](Personal%20Projects/Solution%20(September%202022%20Problem%20of%20the%20Month).pdf))
+[^1]: No files exist for this course because the nature of the subject led to coursework being done exclusively on paper.
